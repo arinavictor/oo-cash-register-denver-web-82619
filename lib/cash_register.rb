@@ -49,11 +49,4 @@ class CashRegister
         self.total = self.total - self.last_price
     end
 
-
-
-
-
-    
-
-
 end 
